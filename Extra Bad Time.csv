@@ -2,7 +2,7 @@
 0,CombatZoneResize,239,225,404,391,,,,
 0,HeartTeleport,325,310,,,,,,
 0.5,SansBody,HandUp,,,,,,,
-0.1,SansSlam,3,,,,,,,
+0.1,SansSlam,10,,,,,,,
 0,BoneStab,3,35,0.33,0.17,,,,
 0.5,SansBody,HandLeft,,,,,,,
 0.1,SansSlam,2,,,,,,,
